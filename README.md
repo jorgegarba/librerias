@@ -3,5 +3,5 @@
 - DataTables
 - Chart JS
 
-Para más información [DataTables](https://datatables.net/)
-Para más información [Chart JS](https://www.chartjs.org/)
+* Para más información [DataTables](https://datatables.net/)
+* Para más información [Chart JS](https://www.chartjs.org/)
